@@ -1,6 +1,8 @@
 #INTRODUCTION
 # Website link : "https://www.insee.fr/fr/statistiques/serie/010767732#Documentation"
 
+path <- "/Users/augustincablant/Desktop/Time Series project"
+
 #PACKAGES
 install.packages("fUnitRoots") #Unit root test
 require(tseries) #functions for time series
