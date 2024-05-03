@@ -1,4 +1,4 @@
-# Leather and Footwear Industry Time Series Project
+# Production of essential oils Time Series Project
 
 
 ## Overview
